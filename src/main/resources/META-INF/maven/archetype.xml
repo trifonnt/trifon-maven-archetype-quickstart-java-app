@@ -1,5 +1,5 @@
 <archetype>
-  <id>trifon-archetype-sample-web-app</id>
+  <id>trifon-maven-archetype-quickstart-java-app</id>
   <sources>
     <source>src/main/java/App.java</source>
   </sources>
