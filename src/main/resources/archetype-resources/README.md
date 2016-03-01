@@ -36,6 +36,8 @@ After having installed the software, the user may need to configure it. List con
 
 Sometimes also called Authors, this is the list of project contributors.
 
+[A template for starting project documentation](https://opensource.com/business/15/6/template-starting-project-documentation)
+
 ## Contact
 
 People may want to reach out to you for various reasons, ranging from DCMA take down notices to questions about how to donate to your project. Provide contact information, such as an email address, and keep in mind that some countries may require certain information by law, such as a full postal address, website URL, and company name.
