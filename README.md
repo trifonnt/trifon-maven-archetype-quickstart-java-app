@@ -6,11 +6,12 @@ $ git clone https://github.com/trifonnt/trifon-maven-archetype-quickstart-java-a
 * Build
 ```shell
 $ cd trifon-maven-archetype-quickstart-java-app
+$ mvn install
 ```
 
-* Install new Archetype
+* Install new Archetype into local Maven repository
 ```shell
-$ mvn install
+$ mvn install:install-file -Dfile=target/trifon-archetype-quickstart-java-app-0.0.1.jar -DgroupId=name.trifon -DartifactId=trifon-maven-archetype-quickstart-java-app -Dversion=0.0.1 -Dpackaging=jar
 ```
 
 * Use new Archetype to create sample project based on the new archetype
