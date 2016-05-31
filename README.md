@@ -1,10 +1,14 @@
-1. Install new Archetype
+1. Clone repository
+```shell
+$ git clone https://github.com/trifonnt/trifon-maven-archetype-quickstart-java-app
+```
+
+2. Install new Archetype
 ```shell
 $ mvn install
 ```
 
-
-2. Use new Archetype to create sample project based on the new archetype
+3. Use new Archetype to create sample project based on the new archetype
 ```shell
 $ mvn archetype:generate 
   -DarchetypeGroupId=name.trifon                                   \
