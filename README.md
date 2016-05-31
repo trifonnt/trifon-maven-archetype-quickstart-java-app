@@ -3,6 +3,11 @@
 $ git clone https://github.com/trifonnt/trifon-maven-archetype-quickstart-java-app
 ```
 
+* Build
+```shell
+$ cd trifon-maven-archetype-quickstart-java-app
+```
+
 * Install new Archetype
 ```shell
 $ mvn install
