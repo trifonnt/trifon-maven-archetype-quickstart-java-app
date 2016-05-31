@@ -1,10 +1,10 @@
-+01) Install new Archetype
+1. Install new Archetype
 ```shell
 $ mvn install
 ```
 
 
-+02) Use new Archetype to create sample project based on the new archetype
+2. Use new Archetype to create sample project based on the new archetype
 ```shell
 $ mvn archetype:generate 
   -DarchetypeGroupId=name.trifon                                   \
