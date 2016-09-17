@@ -26,7 +26,7 @@ List anything your project requires in order to work as expected.
 
 ### Installation
 
-Describe how to install your program. Be precise and give examples. Don't assume your users know how to clone from my github repo. Keep in mind that some of your users may be completely unskilled in system administration or software development.
+Describe how to install your program. Be precise and give examples. Don't assume your users know how to clone from my github repository. Keep in mind that some of your users may be completely unskilled in system administration or software development.
 
 ### Configuration
 
